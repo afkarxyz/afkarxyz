@@ -5,7 +5,7 @@
 <table align="center">
 	<tr>
 		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=afkarxyz&show_icons=true&bg_color=0d1117&icon_color=4493f8&title_color=4493f8&text_color=9198a1&hide_border=true&count_private=true" draggable="false">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=afkarxyz&show_icons=true&bg_color=0d1117&icon_color=9198a1&title_color=4493f8&text_color=9198a1&hide_border=true&count_private=true" draggable="false">
 		</td>
 		<td width="1200px">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afkarxyz&layout=compact&bg_color=0d1117&title_color=9198a1&text_color=9198a1&hide_border=true" draggable="false">
