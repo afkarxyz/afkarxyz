@@ -4,7 +4,7 @@
 
 [![FFmpeg-Xfade-GUI](https://img.shields.io/github/downloads/afkarxyz/FFmpeg-Xfade-GUI/total?color=c20000&logo=ffmpeg&logoColor=f5f5f5&style=for-the-badge&label=FFmpeg-Xfade-GUI)](https://github.com/afkarxyz/FFmpeg-Xfade-GUI/releases) [![InfinityVideoExtender](https://img.shields.io/github/downloads/afkarxyz/InfinityVideoExtender/total?color=27ae60&logo=ffmpeg&logoColor=f5f5f5&style=for-the-badge&label=InfinityVideoExtender)](https://github.com/afkarxyz/InfinityVideoExtender/releases) [![YouTube-Streamer](https://img.shields.io/github/downloads/afkarxyz/YouTube-Streamer/total?color=ee3616&logo=ffmpeg&logoColor=f5f5f5&style=for-the-badge&label=YouTube-Streamer)](https://github.com/afkarxyz/YouTube-Streamer/releases)
 
-[![Twitter-X-Media-Batch-Downloader](https://img.shields.io/github/downloads/afkarxyz/Twitter-X-Media-Batch-Downloader/total?color=1da0f1&logo=x&logoColor=f5f5f5&style=for-the-badge&label=Twitter-X-Media-Batch-Downloader)](https://github.com/afkarxyz/Twitter-X-Media-Batch-Downloader/releases) [![DAE-Fixer](https://img.shields.io/github/downloads/afkarxyz/DAE-Fixer/total?color=f26460&logo=blender&logoColor=f5f5f5&style=for-the-badge&label=DAE-Fixer)](https://github.com/afkarxyz/DAE-Fixer/releases)
+[![DAE-Fixer](https://img.shields.io/github/downloads/afkarxyz/DAE-Fixer/total?color=f26460&logo=blender&logoColor=f5f5f5&style=for-the-badge&label=DAE-Fixer)](https://github.com/afkarxyz/DAE-Fixer/releases) [![Twitter-X-Media-Batch-Downloader](https://img.shields.io/github/downloads/afkarxyz/Twitter-X-Media-Batch-Downloader/total?color=1da0f1&logo=x&logoColor=f5f5f5&style=for-the-badge&label=Twitter-X-Media-Batch-Downloader)](https://github.com/afkarxyz/Twitter-X-Media-Batch-Downloader/releases)
 
 <table align="center">
 	<tr>
