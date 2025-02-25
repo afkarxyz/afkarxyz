@@ -13,4 +13,4 @@
 	</tr>
 </table>
 
-[![Twitter-X-Media-Batch-Downloader](https://img.shields.io/github/downloads/afkarxyz/Twitter-X-Media-Batch-Downloader/total?color=1da0f1&logo=x&logoColor=f5f5f5&style=for-the-badge&label=Twitter-X-Media-Batch-Downloader)](https://github.com/afkarxyz/Twitter-X-Media-Batch-Downloader/releases) [![Instagram-Media-Batch-Downloader](https://img.shields.io/github/downloads/afkarxyz/Instagram-Media-Batch-Downloader/total?color=ff5d00&logo=instagram&logoColor=f5f5f5&style=for-the-badge&label=Instagram-Media-Batch-Downloader)](https://github.com/afkarxyz/Instagram-Media-Batch-Downloader/releases)
+[![Twitter-X-Media-Batch-Downloader](https://img.shields.io/github/downloads/afkarxyz/Twitter-X-Media-Batch-Downloader/total?color=1da0f1&logo=x&logoColor=f5f5f5&style=for-the-badge&label=Twitter-X-Media-Batch-Downloader)](https://github.com/afkarxyz/Twitter-X-Media-Batch-Downloader/releases)
